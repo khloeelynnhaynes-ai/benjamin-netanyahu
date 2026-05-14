@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQYABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wAAAAAAAAAA8Mzy/w8AAAAAAAAA8MLy/w8AAAAAAP///8///8zMAAAA/yIiIsL/TCQiDADwIiIiIiJCRCIiDAAvIiIiIiJEIiLMDAAsIiIiIiIsIsz8///AshsRmSLCzMzMIvIAnJkRsSIiIiIiIgwAwJkrIiIiIswizwAAAMxCRCIizEwk8gAAAP/PzPz/AMBE8gAA8C/C/A8AAABM9AAA8P//DwAAAADAzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "yahu"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
